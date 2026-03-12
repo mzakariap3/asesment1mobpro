@@ -18,6 +18,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.MZakariaPrasetyo0062.mobpro1.ui.theme.Mobpro1Theme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.TopAppBarDefaults
+import com.MZakariaPrasetyo0062.mobpro1.model.Hewan
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
