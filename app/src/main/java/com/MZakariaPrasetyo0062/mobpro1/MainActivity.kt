@@ -39,6 +39,13 @@ class MainActivity : ComponentActivity() {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MainScreen() {
+    val data = listOf(
+        Hewan("Ayam", R.drawable.ayam),
+        Hewan("Bebek", R.drawable.bebek),
+        Hewan("Domba", R.drawable.domba),
+        Hewan("Kambing", R.drawable.kambing),
+        Hewan("Sapi", R.drawable.sapi),
+    )
     Scaffold(
         topBar = {
             TopAppBar(
