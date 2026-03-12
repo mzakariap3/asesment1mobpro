@@ -75,7 +75,7 @@ fun MainScreen() {
             hewan = data[index],
             modifier = Modifier.padding(innerPadding)
         ) {
-            index++
+            index = if (index == data.size - 1) 0 else index + 1
         }
     }
 }
