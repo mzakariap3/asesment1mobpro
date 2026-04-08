@@ -1,9 +1,10 @@
-package com.MZakariaPrasetyo0062.mobpro1.ui.screen
+package com.MZakariaPrasetyo0062.mobpro1
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import com.MZakariaPrasetyo0062.mobpro1.ui.screen.MainScreen
 import com.MZakariaPrasetyo0062.mobpro1.ui.theme.Mobpro1Theme
 
 class MainActivity : ComponentActivity() {
