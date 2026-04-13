@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">asesment1</string>
+    <string name="main_title">Hiking Calculator</string>
+    <string name="weight_label">Pack Weight (kg)</string>
+    <string name="difficulty_label">Medan Track:</string>
+    <string name="calculate">Calculate</string>
+    <string name="share">Share Results</string>
+    <string name="error_weight">Please enter weight!</string>
+    <string name="about_menu">About Me</string>
+    <string name="about_title">Developer Info</string>
+    <string name="result_msg">Based on your %1$s kg pack, you need approx %2$s kcal.</string>
+</resources>
