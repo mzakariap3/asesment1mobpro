@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">asesment1</string>
+    <string name="main_title">Kalkulator Hiking</string>
+    <string name="pack_weight">Berat Karier</string>
+    <string name="difficulty_label">Medan Track</string>
+    <string name="calculate">Menghitung</string>
+    <string name="share">Bagikan Hasil</string>
+    <string name="error_weight">Silakan masukkan berat badan!</string>
+    <string name="about_menu">Tentang Saya</string>
+    <string name="about_title">Info Pengembang</string>
+    <string name="result_msg">Berdasarkan %1$s kg karier anda, Anda membutuhkan sekitar  %2$s kcal.</string>
+</resources>
