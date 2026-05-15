@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hiking Plan</string>
+    <string name="main_title">Hiking Plan</string>
+
+    <string name="pack_weight">Berat Karier (kg)</string>
+    <string name="difficulty_label">Tingkat Kesulitan Track:</string>
+    <string name="share">Bagikan Hasil</string>
+    <string name="error_weight">Masukkan Berat!</string>
+    <string name="about_menu">Tentang Saya</string>
+    <string name="about_title">Developer Info</string>
+    <string name="result_calories">Berdasarkan kemasan %1$s kg Anda, Anda membutuhkan sekitar %2$d kkal.</string>
+    <string name="calorie_estimation">Estimasi Kalori Pendakian</string>
+    <string name="calculate_calories">Hitung Kalori</string>
+    <string name="view_plans">Lihat Rencana Pendakian</string>
+    <string name="input_weight_error">Isi berat beban dulu!</string>
+    <string name="list_title">Rencana Pendakian</string>
+    <string name="empty_plan">Belum ada rencana pendakian.</string>
+    <string name="mountain_name_hint">Nama Gunung</string>
+    <string name="use_porter">Gunakan Jasa Porter</string>
+    <string name="save_plan">Simpan Rencana</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="delete_plan">Hapus Rencana?</string>
+
+    <string name="delete_plan_info">Yakin ingin menghapus rencana pendakian ke</string>
+    <string name="delete_plan_info2">Data yang dihapus tidak bisa dikembalikan</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="mustinputdata">Semua data harus diisi!</string>
+    <string name="add_plan">Tambah Rencana</string>
+    <string name="change_plan">Ubah Rencana</string>
+</resources>

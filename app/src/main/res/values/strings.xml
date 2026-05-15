@@ -1,12 +1,31 @@
 <resources>
-    <string name="app_name">Mobpro 1</string>
-    <string name="intro_challenge">Mari menghitung luas dan keliling persegi panjang! Masukkan data berikut:</string>
-    <string name="panjang">Panjang</string>
-    <string name="lebar">Lebar</string>
-    <string name="hitung">Hitung</string>
-    <string name="reset">Reset</string>
-    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="app_name">Hiker\'s Kit</string>
+    <string name="main_title">Hiking Calculator</string>
+    <string name="pack_weight">Pack Weight (kg)</string>
+    <string name="difficulty_label">Track Difficulty:</string>
+    <string name="share">Share Result</string>
+    <string name="error_weight">Please enter weight!</string>
+    <string name="about_menu">About Me</string>
+    <string name="about_title">Developer Info</string>
+    <string name="result_calories">Based on your %1$s kg pack, you need approx %2$d kcal.</string>
+    <string name="calorie_estimation">Climbing Calorie Estimate</string>
+    <string name="calculate_calories">Count Calories</string>
+    <string name="view_plans">View Climbing Plan</string>
+    <string name="input_weight_error">Fill in the weight of the load first!</string>
+    <string name="list_title">Climbing Plan</string>
+    <string name="empty_plan">There are no climbing plans yet.</string>
+    <string name="mountain_name_hint">Mountain Name</string>
+    <string name="use_porter">Use Porter Services</string>
+    <string name="save_plan">Save Plan</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="delete_plan">Delete Plan?</string>
 
-    <string name="luas_x">Luas: %1$,.2f</string>
-    <string name="keliling_x">Keliling: %1$,.2f</string>
+    <string name="delete_plan_info">Are you sure you want to delete your climbing plan to</string>
+    <string name="delete_plan_info2">Deleted data cannot be recovered</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="mustinputdata">All data must be filled in!</string>
+    <string name="add_plan">Add Plan</string>
+    <string name="change_plan">Change Plan</string>
 </resources>
