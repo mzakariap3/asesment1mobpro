@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hiker\'s Kit</string>
+    <string name="app_name">Hiking Plan</string>
     <string name="main_title">Hiking Calculator</string>
     <string name="pack_weight">Pack Weight (kg)</string>
     <string name="difficulty_label">Track Difficulty:</string>
